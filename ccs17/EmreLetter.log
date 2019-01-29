@@ -1,0 +1,77 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.18)  29 JUN 2017 09:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**EmreLetter.tex
+(./EmreLetter.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+
+! LaTeX Error: File `structure.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Undefined control sequence.
+l.32 \Who
+         {Simon Carrignon} % Your name
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \Who{S
+           imon Carrignon} % Your name
+? 
+! Undefined control sequence.
+l.34 \Title
+           {} % Your title, leave blank for no title
+? 
+! Undefined control sequence.
+l.36 \authordetails
+                   {
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37     D
+          pt. of Computer Applications\\ in Science \& Engineering \\ % Your...
+
+? 
+! Undefined control sequence.
+l.50 \logo
+          {../../logos/smallSquareBSC.png} % Logo filename, your logo should...
+
+? 
+! Emergency stop.
+l.50 \logo
+          {../../logos/smallSquareBSC.png} % Logo filename, your logo should...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 132 strings out of 493013
+ 1363 string characters out of 6135682
+ 53259 words of memory out of 5000000
+ 3767 multiletter control sequences out of 15000+600000
+ 3940 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 21i,0n,19p,283b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
